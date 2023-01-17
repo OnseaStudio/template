@@ -1,6 +1,8 @@
 [TEMPLATE] (to delete up to the dash)
+
 To replace :
-[PROJECT NAME] by project name
+
+[PROJECT NAME] by project name <br>
 
 --------------------------------------------
 
