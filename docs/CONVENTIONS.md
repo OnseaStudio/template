@@ -6,8 +6,6 @@ To replace :
 
 -----------------------------
 
-# [LANGUAGE] source code conventions of this project
+## [LANGUAGE] source code conventions of this project
 
-# [PROJECT NAME] conventions
-
--
+## [PROJECT NAME] conventions
