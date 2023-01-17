@@ -1,0 +1,22 @@
+[TEMPLATE] (to delete up to the dash)
+
+To replace :
+
+[PROJECT NAME] by project name
+[VERSION] by version of project
+[RELEASE_DATE] by date of this project version
+[GITHUB REPOSITORY URL] by Github repository of project
+[FAMILY NAME] by author family name
+[NICKNAME] by author nickname
+
+-----------------------------
+
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "[FAMILY NAME]"
+  given-names: "[NICKNAME]"
+title: "[PROJECT NAME]"
+version: [VERSION]
+date-released: [RELEASE_DATE]
+url: "[GITHUB REPOSITORY URL]"
